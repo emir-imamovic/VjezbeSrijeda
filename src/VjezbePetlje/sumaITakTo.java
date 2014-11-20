@@ -8,6 +8,7 @@ public static void main(String[] args) {
 		broj = TextIO.getlnInt();
 		suma = suma + broj;
 		System.out.println("Suma je " + suma);
+		
 	}
 while (broj!=0);
 }
